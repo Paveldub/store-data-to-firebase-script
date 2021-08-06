@@ -1,0 +1,22 @@
+[
+	
+  {
+    "id": 215,
+    "budget": 71.324,
+    "active": false,
+    "date": "2010-03-23",
+    "enum": "online",
+    "firstname": "Fernande",
+    "lastname": "Autrey",
+    "city": "Athens",
+    "country": "Mauritania",
+    "countryCode": "VI",
+    "some_array": [
+      "Catharine",
+      "Jorry",
+      "Georgina",
+      "Kore",
+      "Yvonne"
+    ]
+  }
+]

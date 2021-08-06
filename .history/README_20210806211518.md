@@ -1,0 +1,1 @@
+# node populateJsonFirestore.js kate.json add (name: 'photos')

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Milenas' Sencirety",
+    "photo_url": ''
+  },
+  {
+    "name": "Madame Uppercut",
+    "age": 39,
+    "secretIdentity": "Jane Wilson",
+    "powers": [
+      "Million tonne punch",
+      "Damage resistance",
+      "Superhuman reflexes"
+    ]
+  }
+]
